@@ -22,8 +22,9 @@ repos = GovRepos.new.get_repos
 * Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
 * Please try not to mess with the Rakefile, version, or history. If you want to have your own version, or is otherwise necessary, that is fine, but please isolate to its own commit so I can cherry-pick around it.
 
+*Note: By contributing to this project, you agree to license your work under the same terms as those that govern this project's distribution.*
+
 ## Copyright ##
 
-Copyright (c) 2012 Alan deLevie. See LICENSE.txt for
-further details.
+Copyright (c) 2012 Alan deLevie. See LICENSE.txt for further details.
 
